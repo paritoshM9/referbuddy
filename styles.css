@@ -88,12 +88,14 @@ hr {
   margin-top: 2.5vh;
 }
 
-#step1form, #step2form, #step3form,#step5form {
+#step1form, #step2form, #step3form{
   margin-top: 3vh;
-  height: 20vh;
+  /* height: 20vh; */
+  height: 200px;
+  background-color: green;
 }
 
- #step4form {
+ #step4form ,#step5form {
   margin-top: 3vh;
   /* height: 30vh; */
 }
