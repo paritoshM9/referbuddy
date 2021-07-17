@@ -198,3 +198,8 @@ background-color: white;
 /* .container {
   margin-top: 3vh;
 } */
+.footer {
+  color: grey;
+  text-align: center;
+  margin-top: 20vh;
+}
