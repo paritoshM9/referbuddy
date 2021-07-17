@@ -29,7 +29,7 @@ span {
   text-align: center;
 }
 body {
-    margin-top:10vh;
+    margin-top:7vh;
 }
 .stepwizard-step p {
     margin-top: 10px;
@@ -192,3 +192,7 @@ background-color: white;
 .nxtBtn {
   margin-top: 2vh;
 }
+
+/* .container {
+  margin-top: 3vh;
+} */
