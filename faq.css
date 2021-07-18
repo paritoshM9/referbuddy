@@ -76,7 +76,6 @@ span {
 hr {
   margin-left:auto;
   text-align: center;
-  background-color: yellow;
 }
 
 .subtitle {
@@ -218,8 +217,11 @@ background-color: white;
     margin-bottom: 20px !important;
     background-color: #ffffff;
     border: 1px solid transparent;
-    -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
-    box-shadow: 15px 16px 13px 8px rgb(4 4 4 / 5%);
+    border-right: 1px solid transparent;
+    border-left: 1px solid transparent;
+
+    /* -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+    box-shadow: 15px 16px 13px 8px rgb(4 4 4 / 5%); */
 }
 .jumbotron {
     padding-top: 30px;
@@ -228,4 +230,10 @@ background-color: white;
     /* color: inherit; */
     text-align: center;
     background-color: white;
+}
+
+.footer {
+  color: grey;
+  text-align: center;
+  margin-top: 5vh;
 }
